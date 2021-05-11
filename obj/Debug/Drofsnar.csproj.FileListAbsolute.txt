@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\86SD\Drofsnar\bin\Debug\Drofsnar.exe.config
+C:\ElevenFiftyProjects\86SD\Drofsnar\bin\Debug\Drofsnar.exe
+C:\ElevenFiftyProjects\86SD\Drofsnar\bin\Debug\Drofsnar.pdb
+C:\ElevenFiftyProjects\86SD\Drofsnar\obj\Debug\Drofsnar.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\86SD\Drofsnar\obj\Debug\Drofsnar.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\86SD\Drofsnar\obj\Debug\Drofsnar.exe
+C:\ElevenFiftyProjects\86SD\Drofsnar\obj\Debug\Drofsnar.pdb
